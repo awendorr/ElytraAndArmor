@@ -1,0 +1,6 @@
+com\davud\elytraandarmor\commands\ChangeEffectCommand.class
+com\davud\elytraandarmor\listeners\AnvilListener.class
+com\davud\elytraandarmor\listeners\DurabilityListener.class
+com\davud\elytraandarmor\listeners\MenuListener.class
+com\davud\elytraandarmor\listeners\MenuListener$1.class
+com\davud\elytraandarmor\ElytraAndArmor.class

@@ -1,0 +1,8 @@
+name: ElytraAndArmor
+version: '1.0'
+main: com.davud.elytraandarmor.ElytraAndArmor
+api-version: '1.21'
+commands:
+  changeeffect:
+    description: Opens the effect selection menu.
+    usage: /changeeffect
